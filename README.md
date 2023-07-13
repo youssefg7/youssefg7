@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @youssefg7
-- 👀 I’m interested in Data Science, Machine Learning, Software Engineering
-- 🌱 I’m currently learning Data Science in uni
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m interested in Data Science, Machine Learning, Software Engineering.
+- 🌱 I’m currently studying Data Science at Ain Shams & University of East London universties.
+- 💞️ I’m looking to collaborate on data science projects.
