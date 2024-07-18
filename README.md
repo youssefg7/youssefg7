@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @youssefg7
 - 👀 I’m interested in Data Science, Machine Learning, Software Engineering.
-- 🌱 I’m currently studying Data Science at Ain Shams & University of East London universties.
-- 💞️ I’m looking to collaborate on data science projects.
+- 👨‍🎓 I have BEng in Data Science from Ain Shams University & University of East London.
+- 🤝 I’m looking to collaborate on open source projects, mainly in AI/ML.
