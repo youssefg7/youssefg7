@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @youssefg7
-- 👀 I’m interested in Data Science, Machine Learning, Software Engineering.
-- 👨‍🎓 I have BEng in Data Science from Ain Shams University & University of East London.
-- 🤝 I’m looking to collaborate on open source projects, mainly in AI/ML.
+- 👋 Hi, I’m @youssefg7  
+- 👀 Passionate about Data Science, Machine Learning, and Software Engineering.  
+- 👨‍🎓 Currently pursuing a Master's in Computer Science @Georgia Tech.  
+- 👨‍🎓 Hold a BEng in Data Science from Ain Shams University and the University of East London.  
+- 🤝 Excited to collaborate on Python-based open-source projects, especially in AI/ML.  
